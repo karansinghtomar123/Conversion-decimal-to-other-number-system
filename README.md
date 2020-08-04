@@ -1,6 +1,6 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
+
 <br>
 
 <b>Discipline | <b> CS&E
