@@ -6,7 +6,7 @@
 <b>Discipline | <b> CS&E
 :--|:--|
 <b> Lab | <b> Data Structure
-<b> Experiment|     <b> 1. (enter the correct experiment number) Insertion Sort
+<b> Experiment|     <b> 1. Insertion Sort
 
 <h5> About the Lab (Objective) : </h5>
 
