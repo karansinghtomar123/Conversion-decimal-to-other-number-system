@@ -6,15 +6,15 @@
 <b>Discipline | <b> CS&E
 :--|:--|
 <b> Lab | <b> Data Structure
-<b> Experiment|     <b> 1. Insertion Sort
+<b> Experiment|     <b> 1. Number System
 
 <h5> About the Lab (Objective) : </h5>
 
-Objective of lab is to perform the insertion sorting on some given data.
+Objective of lab is to perform the conversion on some given data.
 
 <h5> About the Experiment : </h5>
 
-This experiment is all about sorting of elements.
+This experiment is all about conversion of elements.
 
 <h5> Target Audience : </h5>
 
