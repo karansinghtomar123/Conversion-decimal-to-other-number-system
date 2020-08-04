@@ -3,30 +3,30 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b> CS&E
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Data Structure
+<b> Experiment|     <b> 1. (enter the correct experiment number) Insertion Sort
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+Objective of lab is to perform the insertion sorting on some given data.
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+This experiment is all about sorting of elements.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+Students of CS&E
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+This course is alligned using course of data structure using C, Introduction to data structure, Data structure using C. 
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+APJAKTU, Lucknow University, DSMNRU, Lucknow
 
 <b>Name of Developer | <b> Hemant Kumar Singh
 :--|:--|
@@ -39,7 +39,7 @@ Type here: universities mapped
 <b>Mentored by | <b> Sangeet Arora
 :--|:--|
 <b> Institute | <b> KIET Group of Institution
-<b> Email id|     <b> sangeet.arora@kiet.edu
+<b> Email id|     <b> sangeeta.arora@kiet.edu
 <b> Department | CS
 
 #### Contributors List
