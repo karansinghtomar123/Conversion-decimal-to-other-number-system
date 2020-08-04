@@ -27,11 +27,11 @@ Type here: courses aligned
 
 Type here: universities mapped
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Dr.Hemant Kumar Singh | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> School of Management Sciences,Lucknow | <b> My Institute name
+<b> hemantsingh@smslucknow.com|     <b> abc@example.com
+<b> CSE | Name of the department in which you work
 
 #### Mentor Details
 
