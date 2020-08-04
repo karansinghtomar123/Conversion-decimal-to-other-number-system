@@ -1,6 +1,5 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
 <b>Discipline | <b>Type Name of Discpline  to which lab belongs
@@ -46,10 +45,10 @@ Type here: universities mapped
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Dr.Hemant Kumar Singh | Faculty | CSE | School of Management Sciences,Lucknow | hemantsingh@smslucknow.com
+2 | Yash Agrawal | Student | CSE | School of Management Sciences,Lucknow | yashagr15@gmail.com
+3 | Saud Akhtar Khan | Student | CSE | School of Management Sciences,Lucknow |ksaud7977@gmail.com
+4 | Karan Singh | Student | CSE | School of Management Sciences,Lucknow |karansinghtomar123@gmail.com
 
 
 <br>
