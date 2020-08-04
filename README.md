@@ -28,28 +28,28 @@ Type here: courses aligned
 
 Type here: universities mapped
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Hemant Kumar Singh
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b>School of Management Science,Lucknow
+<b> Email id|     <b> hemantsingh@smslucknow.com
+<b> Department | CSE
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Sangeet Arora
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> KIET Group of Institution
+<b> Email id|     <b> sangeet.arora@kiet.edu
+<b> Department | CS
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Dr. Hemant Kumar Singh | Faculty | CSE | School of Management Science,Lucknow | hemantsingh@smslucknow.com
+2 | Yash Agrawal | Student | CSE | School of Management Science,Lucknow |yashagr15@gmail.com
+3 | Saud Akhtar Khan | Student | CSE | School of Management Science,Lucknow |ksaud7977@gmail.com
+4 | Karan Singh | Student | CSE | School of Management Science,Lucknow |karansinghtomar123@gmail.com
 
 
 <br>
