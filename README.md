@@ -27,7 +27,7 @@ Type here: courses aligned
 
 Type here: universities mapped
 
-<b>Dr.Hemant Kumar Singh | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Hemant Kumar Singh | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
 :--|:--|
 <b> School of Management Sciences,Lucknow | <b> My Institute name
 <b> hemantsingh@smslucknow.com|     <b> abc@example.com
