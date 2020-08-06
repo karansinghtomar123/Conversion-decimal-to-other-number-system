@@ -2,15 +2,19 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: Number System Conversion
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+The experiment is based on number system conversion.Student approaches the simulator to understand the concept of conversion.The main objective of the experiment is to convert the decimal to binary,octal and hexadecimal.<br>By performing this experiment, the student is able to understand the concept of conversion and also get deep knowledge.
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+<b>Number System: </b>A number system is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner. The same sequence of symbols may represent different numbers in different numeral systems.The number system or the numeral system is the system of naming or representing numbers. There are various types of number systems in maths like binary, decimal, etc.<br>
+
+<b>Decimal Number System: </b>The decimal numeral system is the standard system for denoting integer and non-integer numbers.It has base 10.
+<b>Octal Number System: </b>The octal numeral system, or oct for short, is the base-8 number system, and uses the digits 0 to 7.It has base 8.
+<b>Hexadecimal Number System: </b>In mathematics and computing, hexadecimal is a positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with ten symbols, it uses sixteen distinct symbols, most often the symbols "0"–"9" to represent values zero to nine, and "A"–"F" to represent values ten to fifteen.
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
