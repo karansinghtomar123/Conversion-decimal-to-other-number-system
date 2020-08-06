@@ -36,7 +36,7 @@ APJAKTU, Lucknow University, DSMNRU, Lucknow
 
 #### Mentor Details
 
-<b>Mentored by | <b> Sangeet Arora
+<b>Mentored by | <b> Sangeeta Arora
 :--|:--|
 <b> Institute | <b> KIET Group of Institution
 <b> Email id|     <b> sangeeta.arora@kiet.edu
