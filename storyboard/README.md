@@ -17,7 +17,7 @@ The experiment is based on number system conversion.Student approaches the simul
 <b>Hexadecimal Number System: </b>In mathematics and computing, hexadecimal is a positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with ten symbols, it uses sixteen distinct symbols, most often the symbols "0"–"9" to represent values zero to nine, and "A"–"F" to represent values ten to fifteen.
 
 #### 2.1 Set the Visual Stage Description:
-The very first text will be Conversion.The simulator will have a block where user has to enter the decimal number.A convert button will be made on which user will click after giving input then the output will display.
+The very first text will be Conversion.The simulator will have a block where user has to enter the decimal number.A convert button will be made on which user will click after giving input,the output will display.
 
 #### 2.2 Set User Objectives & Goals:
 The aim of the simulator is to convert the decimal number into binary,octal and hexdecimal number at a time.<br>The goal is to understand the conversion concept by each user.
