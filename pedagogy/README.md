@@ -4,7 +4,7 @@
 <b> Experiment Data Structure Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Data Structure
 <b> Experiment|     <b> 1. Number System Conversion
@@ -18,18 +18,17 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Conversion from decimal to binary,octal,hexadecimal
+The candidate will understand the concept of converting the decimal number into binary number,octal number and hexadecimal number.
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-
+1.| User will be able to: <br>convert from decimal to binary <br>  | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+2.| User will be able to: <br>convert from decimal to octal <br>  | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3.| User will be able to: <br>convert from decimal to hexadecimal <br> | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 <br/>
 <div align="right">
@@ -43,10 +42,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> As per Handout
 ###### Assessment Method: As per handout
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b> Instructional Strategy will be implement as simulator as follows: </u>
 <br>
- Brief description as per handout
-
+ In the simulator,the candidate will enter the decimal number and get the output as binary,octal and hexadecimal number.The simulator has default value of decimal number and also a student can enter his own number.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -62,17 +60,13 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| Convert decimal to binary <br> | student has to enter the decimal number | Q.What is the base of binary number?
+2.| Convert decimal to octal <br>| student has to enter the decimal number | Q.What is the base of octal number?
+3.| Convert decimal to hexadecimal <br>| student has to enter the decimal number | Q.What is the base of hexadecimal number?
 
-
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
 
  <br>
 
- <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -87,7 +81,6 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student click on simulator option | Simulator will be opened  | To open the simulator.
+2.| Student will enter the deicmal number | Simulator will take decimal number as input  | Simulator will take input.
+3.| Student will press submit button | Simulator will process the conversion | Simulator will show output.
