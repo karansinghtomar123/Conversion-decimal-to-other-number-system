@@ -1,7 +1,7 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Experiment Data Structure Lab  <a name="top"></a> <br>
+<b> Experiment Number System Conversion <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
