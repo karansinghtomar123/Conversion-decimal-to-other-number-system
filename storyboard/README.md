@@ -37,10 +37,10 @@ Q.What is the base of hexadecimal number?<br>
 Q.Is 2269 an octal number?<br>
 
 ##### 2.5 Allow pitfalls:
-Input must be integer number only.On entering decimal it will not give desrirable ouptut.
+Input must be an integer number only.On entering decimal it will not give desirable ouptut.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+By the end of this experiment,the student will able to understand the way to convert the decimal number to binary,octal and hexadecimal number.
 
 ##### 2.7 Equations/formulas: NA
 Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
