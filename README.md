@@ -6,7 +6,7 @@
 <b>Discipline | <b> CS&E
 :--|:--|
 <b> Lab | <b> Data Structure
-<b> Experiment|     <b> 1. Number System
+<b> Experiment|     <b> 1. Number System Conversion
 
 <h5> About the Lab (Objective) : </h5>
 
