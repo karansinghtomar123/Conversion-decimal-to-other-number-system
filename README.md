@@ -40,7 +40,7 @@ APJAKTU, Lucknow University, DSMNRU, Lucknow
 :--|:--|
 <b> Institute | <b> KIET Group of Institution
 <b> Email id|     <b> sangeeta.arora@kiet.edu
-<b> Department | CS
+<b> Department | Computer Application
 
 #### Contributors List
 
