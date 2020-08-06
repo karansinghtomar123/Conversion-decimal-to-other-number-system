@@ -43,9 +43,9 @@ Input must be an integer number only.On entering decimal it will not give desira
 By the end of this experiment,the student will able to understand the way to convert the decimal number to binary,octal and hexadecimal number.
 
 ##### 2.7 Equations/formulas: NA
-Decimal to Binary:Divide the number by 2 and write the remainder also in front of each step till number become 1 or 0 then take remainder values and move from botton to top and write it in same manner.<br>
-Decimal to Ocatl:Divide the number by 8 and write the remainder also in front of each step till number become 1 or 0 then take remainder values and move from botton to top and write it in same manner.<br>
-Decimal to Hexadecimal:Divide the number by 16 and write the remainder also in front of each step till number become 1 or 0.Also remember to convert 10 to 15 number into 'A' to 'F' respectively then take remainder values and move from botton to top and write it in same manner.<br>
+<b>Decimal to Binary:</b>Divide the number by 2 and write the remainder also in front of each step till number become 1 or 0 then take remainder values and move from botton to top and write it in same manner.<br><br>
+<b>Decimal to Octal:</b>Divide the number by 8 and write the remainder also in front of each step till number become 1 or 0 then take remainder values and move from botton to top and write it in same manner.<br><br>
+<b>Decimal to Hexadecimal:</b>Divide the number by 16 and write the remainder also in front of each step till number become 1 or 0.Also remember to convert 10 to 15 number into 'A' to 'F' respectively then take remainder values and move from botton to top and write it in same manner.<br><br>
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
