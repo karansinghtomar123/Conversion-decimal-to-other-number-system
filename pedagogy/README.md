@@ -1,7 +1,7 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment Data Structure Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Type Name of Discipline  to which lab belongs
