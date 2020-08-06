@@ -30,7 +30,11 @@ The aim of the simulator is to convert the decimal number into binary,octal and 
 5.Click on reset button to reset the experiment for next value.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-Q.What is base of 
+Q.What is base of decimal number system?<br>
+Q.What is the binary number system of 25?<br>
+Q.What will be the decimal value of 'E' hexadecimal number?<br>
+Q.What is the base of hexadecimal number?<br>
+Q.Is 2269 is octal number?<br>
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
