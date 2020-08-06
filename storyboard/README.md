@@ -10,11 +10,17 @@ The experiment is based on number system conversion.Student approaches the simul
 
 ### 2. Story:
 
-<b>Number System: </b>A number system is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner. The same sequence of symbols may represent different numbers in different numeral systems.The number system or the numeral system is the system of naming or representing numbers. There are various types of number systems in maths like binary, decimal, etc.<br>
+<b>Number System:
+</b>A number system is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner. The same sequence of symbols may represent different numbers in different numeral systems.The number system or the numeral system is the system of naming or representing numbers. There are various types of number systems in maths like binary, decimal, etc.<br>
 
-<b>Decimal Number System: </b>The decimal numeral system is the standard system for denoting integer and non-integer numbers.It has base 10.
-<b>Octal Number System: </b>The octal numeral system, or oct for short, is the base-8 number system, and uses the digits 0 to 7.It has base 8.
-<b>Hexadecimal Number System: </b>In mathematics and computing, hexadecimal is a positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with ten symbols, it uses sixteen distinct symbols, most often the symbols "0"–"9" to represent values zero to nine, and "A"–"F" to represent values ten to fifteen.
+<b>Decimal Number System:
+</b>The decimal numeral system is the standard system for denoting integer and non-integer numbers.It has base 10.
+
+<b>Octal Number System:
+</b>The octal numeral system, or oct for short, is the base-8 number system, and uses the digits 0 to 7.It has base 8.
+
+<b>Hexadecimal Number System:
+</b>In mathematics and computing, hexadecimal is a positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with ten symbols, it uses sixteen distinct symbols, most often the symbols "0"–"9" to represent values zero to nine, and "A"–"F" to represent values ten to fifteen.
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
