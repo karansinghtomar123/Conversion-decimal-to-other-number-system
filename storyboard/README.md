@@ -23,15 +23,14 @@ The very first text will be Conversion.The simulator will have a block where use
 The aim of the simulator is to convert the decimal number into binary,octal and hexdecimal number at a time.<br>The goal is to understand the conversion concept by each user.
 
 #### 2.3 Set the Pathway Activities:
-1.Click on the button "Start the simulator".It takes to next screen.
-2.All component of the experiment are seen on the screen.
-3.Enter the decimal number in the block.
-4.Click on convert button.It will give output.
-5.Click on reset button to reset the experiment for next value.
+1.Click on the button "Start the simulator".It takes to next screen.<br>
+2.All component of the experiment are seen on the screen.<br>
+3.Enter the decimal number in the block.<br>
+4.Click on convert button.It will give output.<br>
+5.Click on reset button to reset the experiment for next value.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Q.What is base of 
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
