@@ -26,9 +26,9 @@ The candidate will understand the concept of converting the decimal number into 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>convert from decimal to binary <br>  | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>convert from decimal to octal <br>  | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>convert from decimal to hexadecimal <br> | Understand(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Calculate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br>convert from decimal to binary <br>  | Understand | Calculate
+2.| User will be able to: <br>convert from decimal to octal <br>  | Understand | Calculate
+3.| User will be able to: <br>convert from decimal to hexadecimal <br> | Understand | Calculate
 
 <br/>
 <div align="right">
