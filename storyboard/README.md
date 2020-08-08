@@ -46,9 +46,9 @@ By the end of this experiment,the student will able to understand the way to con
 <b>Decimal to Hexadecimal:</b>Divide the number by 16 and write the remainder also in front of each step till number become 1 or 0.Also remember to convert 10 to 15 number into 'A' to 'F' respectively then take remainder values and move from botton to top and write it in same manner.<br><br>
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
 <img src="flowchart/flowchart1.png"/><br>
 <img src="flowchart/flowchart2.png"/><br>
+<img src="flowchart/flowchart3.png"/><br>
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
