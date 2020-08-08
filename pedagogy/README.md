@@ -83,4 +83,4 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student click on simulator option | Simulator will be opened  | To open the simulator.
 2.| Student will enter the decimal number | Simulator will take decimal number as input  | Simulator will take input.
-3.| Student will press submit button | Simulator will show output | Simulator will process the conversion.
+3.| Student will press convert button | Simulator will show output as binary,octal and hexadecimal number of the decimal number | Simulator will process the conversion.
