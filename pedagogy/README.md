@@ -44,7 +44,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> Instructional Strategy will be implement as simulator as follows: </u>
 <br>
- In the simulator,the candidate will enter the decimal number and get the output as binary,octal and hexadecimal number.The simulator has default value of decimal number and also a student can enter his own number.
+ In the simulator,the candidate will enter the decimal number and get the output as binary,octal and hexadecimal number.The simulator has default value of decimal number and a user defined number can also be entered.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
