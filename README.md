@@ -28,7 +28,7 @@ This course is alligned using course of data structure using C, Introduction to 
 
 APJAKTU, Lucknow University, DSMNRU, Lucknow
 
-<b>Name of Developer | <b> Hemant Kumar Singh
+<b>Name of Developer | <b> Dr.Hemant Kumar Singh
 :--|:--|
 <b> Institute | <b>School of Management Science,Lucknow
 <b> Email id|     <b> hemantsingh@smslucknow.com
@@ -36,7 +36,7 @@ APJAKTU, Lucknow University, DSMNRU, Lucknow
 
 #### Mentor Details
 
-<b>Mentored by | <b> Sangeeta Arora
+<b>Mentored by | <b> Dr.Sangeeta Arora
 :--|:--|
 <b> Institute | <b> KIET Group of Institution
 <b> Email id|     <b> sangeeta.arora@kiet.edu
