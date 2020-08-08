@@ -81,6 +81,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student click on simulator option | Simulator will be opened  | To open the simulator.
-2.| Student will enter the decimal number | Simulator will take decimal number as input  | Simulator will take input.
-3.| Student will press convert button | Simulator will show output as binary,octal and hexadecimal number of the decimal number | Simulator will process the conversion.
+1.| Click on simulator option | Simulator will be opened  | To open the simulator.
+2.| Now, Enter the decimal number | Simulator will take decimal number as input  | Given input will assigned to simulator.
+3.| Press convert button | Simulator will show the output in desired format | Conversion will be done.
