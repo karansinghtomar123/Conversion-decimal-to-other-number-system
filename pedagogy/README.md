@@ -60,9 +60,9 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Convert decimal to binary <br> | student has to enter the decimal number | Q.What is the base of binary number?
-2.| Convert decimal to octal <br>| student has to enter the decimal number | Q.What is the base of octal number?
-3.| Convert decimal to hexadecimal <br>| student has to enter the decimal number | Q.What is the base of hexadecimal number?
+1.| Convert decimal to binary <br> | student has to enter the decimal number | <b>Q.What is the base of binary number?<b><br>Answer:2
+2.| Convert decimal to octal <br>| student has to enter the decimal number | <b>Q.What is the base of octal number?<b><br>Answer:8
+3.| Convert decimal to hexadecimal <br>| student has to enter the decimal number | <b>Q.What is the base of hexadecimal number?<b><br>Answer:16
 
 
  <br>
@@ -82,5 +82,5 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student click on simulator option | Simulator will be opened  | To open the simulator.
-2.| Student will enter the deicmal number | Simulator will take decimal number as input  | Simulator will take input.
+2.| Student will enter the decimal number | Simulator will take decimal number as input  | Simulator will take input.
 3.| Student will press submit button | Simulator will show output | Simulator will process the conversion.
