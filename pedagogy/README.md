@@ -40,7 +40,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Assessment Method: Visualization
 
 <u> <b>Description: </b> Instructional Strategy will be implement as simulator as follows: </u>
 <br>
