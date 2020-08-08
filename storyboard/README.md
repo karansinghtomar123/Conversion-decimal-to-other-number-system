@@ -48,7 +48,6 @@ By the end of this experiment,the student will able to understand the way to con
 ### 3. Flowchart 4
 <img src="flowchart/flowchart1.png"/><br>
 <img src="flowchart/flowchart2.png"/><br>
-<img src="flowchart/flowchart3.png"/><br>
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
