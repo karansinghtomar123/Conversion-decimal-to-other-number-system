@@ -52,4 +52,4 @@ By the end of this experiment,the student will able to understand the way to con
 <img src="mindmap/mindmap.png"/>
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif">Gif</a>
+Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
