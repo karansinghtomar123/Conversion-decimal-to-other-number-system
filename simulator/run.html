@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Algorithm</title>
+</head>
+<body>
+	<h1>Decimal to Binary</h1><hr>
+	<h4>Algorithm</h4>
+	<p>for(let i=0;number!=0;i++)<br>
+		{<br>
+            digit[i]=number%2;<br>
+            number=Math.floor(number/2);<br>
+        }<br>
+    </p>
+    <h4>Example</h4>
+    <table border="5px">
+    	<tr>
+    		<th>Divisor</th>
+    		<th>Quotient</th>
+    		<th>Remainder</th>
+    	</tr>
+    	<tr>
+    		<td>2</td>
+    		<td>10</td>
+    		<td>0</td>
+    	</tr>
+    	<tr>
+    		<td>2</td>
+    		<td>5</td>
+    		<td>1</td>
+    	</tr>
+    	<tr>
+    		<td>2</td>
+    		<td>2</td>
+    		<td>0</td>
+    	</tr>
+    	<tr>
+    		<td></td>
+    		<td>1</td>
+    		<td>1</td>
+    	</tr>
+    </table>
+    <h5>Output is: (1010)<sub>2</sub></h5>
+    <br>
+
+    <h1>Decimal to Octal</h1><hr>
+	<h4>Algorithm</h4>
+	<p>for(let i=0;number!=0;i++)<br>
+		{<br>
+            digit[i]=number%8;<br>
+            number=Math.floor(number/8);<br>
+        }<br>
+    </p>
+    <h4>Example</h4>
+    <table border="5px">
+    	<tr>
+    		<th>Divisor</th>
+    		<th>Quotient</th>
+    		<th>Remainder</th>
+    	</tr>
+    	<tr>
+    		<td>8</td>
+    		<td>100</td>
+    		<td>4</td>
+    	</tr>
+    	<tr>
+    		<td>8</td>
+    		<td>12</td>
+    		<td>4</td>
+    	</tr>
+    	<tr>
+    		<td></td>
+    		<td>1</td>
+    		<td>1</td>
+    	</tr>
+    </table>
+    <h5>Output is: (144)<sub>8</sub></h5>
+    <br>
+
+    <h1>Decimal to Hexadecimal</h1><hr>
+	<h4>Algorithm</h4>
+	<p>for(let i =0;number!=0;i++)<br>
+		{<br>
+        var temp  = 0;    <br>
+        temp = number % 16;<br>
+        if(temp < 10) <br>
+        { digit[i] = temp ;}<br>
+        else if(temp==10 )<br>
+        { digit.push("A");}<br>
+        else if(temp==11 )<br>
+        { digit.push("B");}<br>
+        else if(temp==12 )<br>
+        { digit.push("C");}<br> 
+        else if(temp==13 )<br>
+        { digit.push("D");}<br>
+        else if(temp==14 )<br>
+        { digit.push("E");}<br>
+        else if(temp=15 )<br>
+        { digit.push("F");}<br>
+        number=Math.floor(number/16); <br>
+        }<br>
+    </p>
+    <h4>Example</h4>
+    <table border="5px">
+    	<tr>
+    		<th>Divisor</th>
+    		<th>Quotient</th>
+    		<th>Remainder</th>
+    	</tr>
+    	<tr>
+    		<td>16</td>
+    		<td>155</td>
+    		<td>B</td>
+    	</tr>
+    	<tr>
+    		<td></td>
+    		<td>9</td>
+    		<td>9</td>
+    	</tr>
+    </table>
+    <h5>Output is: (9B)<sub>16</sub></h5>
+    <br>
+
+    <a href="https://rawcdn.githack.com/karansinghtomar123/Conversion-decimal-to-other-number-system/363884e8926407d7579e67f69075a42616dd69cd/simulator/index.html"><h2>Simulator</h2></a>
+</body>
+</html>
