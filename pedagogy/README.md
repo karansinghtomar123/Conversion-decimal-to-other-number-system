@@ -44,7 +44,7 @@ Assessment Method: Descriptive/Multiple Choice Question anyone whatever you are 
 
  <b>Description: </b> Instructional Strategy will be implement as simulator as follows: </u>
 <br>
- In the simulator,the candidate will enter the decimal number and get the output as binary,octal and hexadecimal number.The simulator has default value of decimal number and a user defined number can also be entered.
+ In the simulator,the candidate will enter the decimal number and select the number system from the list i.e. binary,octal and hexadecimal and click on convert the candidate will get the desired output.The user has to enter input.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -83,4 +83,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Click on simulator option | Simulator will be opened  | To open the simulator.
 2.| Now, Enter the decimal number | Simulator will take decimal number as input  | Given input will be assigned to simulator.
-3.| Press convert button | Simulator will show the output in desired format | Conversion will be done.
+3.| Now, Select the number system | Simulator will convert from decimal to selected number system  | Conversion will be start.
+4.| Press convert button | Simulator will show the output in desired format | Conversion will be done.
