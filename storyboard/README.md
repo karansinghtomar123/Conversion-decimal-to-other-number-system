@@ -52,4 +52,4 @@ By the end of this experiment,the student will able to understand the way to con
 <img src="mindmap/mindmap.png"/>
 
 ### 5. Storyboard :
-Storyboard: <a href="https://github.com/karansinghtomar123/Conversion-decimal-to-other-number-system/blob/master/storyboard/storyboard/carwiper.gif"> [here]</a>
+Storyboard: <a href="https://github.com/karansinghtomar123/Conversion-decimal-to-other-number-system/blob/master/storyboard/storyboard/hello.gif"> [here]</a>
